@@ -2,6 +2,10 @@
 
 Vagrant is a tool for building and managing virtual machine environments in a single workflow. In short, Vagrant tools will make life easier for developer who wants to setup a virtual machine in a short period. As part of DevOps in Depth Course structure, we are building NGINX Loadbalancer using Vagrant Tool. To know more about the course [DevOps in Depth]
 
+> IF YOU DONT WANT TO FOLLOW THE BELOW STEPS 
+> YOU CAN CLONE THE REPO AND JUST RUN VAGRANT UP
+> MAKE SURE PREREQUISITE AND PLUGIN SHOULD ALREADY BE INSTALLED
+
 ## Prerequisite
 
 - VirtualBox 6

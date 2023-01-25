@@ -44,12 +44,20 @@ cp Vagrantfile .
 Run Vagrant up Command to bring up 3 VM
 
 ```sh
-Vagrant up
+vagrant up
 ```
 To check the status of the machine
 ```sh
-Vagrant status
+vagrant status
 ```
+Other Vagrant Commands
+
+```sh
+vagrant global-status
+vagrant port lb1
+vagrant port web1
+```
+
 
 ## License
 

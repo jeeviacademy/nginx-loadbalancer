@@ -34,7 +34,7 @@ cd nginx-loadbalancer
 Create or copy vagrantfile fron repo
 
 ```sh
-cp vagrantfile .
+cp Vagrantfile .
 ```
 
 Run Vagrant up Command to bring up 3 VM
